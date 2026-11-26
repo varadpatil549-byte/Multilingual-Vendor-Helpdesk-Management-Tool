@@ -1,0 +1,20 @@
+# Multilingual Vendor Helpdesk
+# Python Dependencies
+
+# Microsoft Outlook / Windows COM integration
+pywin32
+
+# Local AI / LLM integration
+ollama
+
+Ollama
+└── TranslateGemma:4b
+
+# Data handling
+pandas
+
+# Excel workbook handling
+openpyxl
+
+# Desktop application UI
+PySide6
