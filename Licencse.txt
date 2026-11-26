@@ -1,0 +1,110 @@
+MULTILINGUAL VENDOR HELPDESK
+RESTRICTED SOURCE LICENSE
+
+Copyright (c) 2026 Varad Patil
+All Rights Reserved.
+
+1. OWNERSHIP
+
+The Multilingual Vendor Helpdesk software, source code, documentation,
+application design, workflows, configuration, and associated materials
+are the intellectual property of Varad Patil ("Author"), except where
+third-party components are separately identified.
+
+Making this repository publicly available does not transfer ownership
+or intellectual property rights.
+
+2. LIMITED PERMISSION
+
+Permission is granted to individuals to view, study, research, test,
+and evaluate the Software for personal and non-commercial purposes.
+
+This permission does not grant a general right to modify, redistribute,
+commercialize, sublicense, or republish the Software.
+
+3. RESTRICTIONS
+
+Without prior written permission from the Author, you may NOT:
+
+- Redistribute or republish the Software or substantial portions of it.
+- Sell, sublicense, lease, or commercially exploit the Software.
+- Include the Software in a commercial product or service.
+- Use the Software as part of a paid hosted service or SaaS offering.
+- Publish modified or derivative versions of the Software.
+- Repackage the Software as a reusable library, toolkit, plugin,
+  automation package, AI skill, agent skill, or competing product.
+- Copy substantial portions of the implementation into another product.
+- Remove or modify copyright, ownership, attribution, or license notices.
+- Present the Software or substantial portions of its implementation
+  as your own work.
+
+4. AI SYSTEMS AND AGENT REPACKAGING
+
+The source code, implementation logic, workflows, prompts, processing
+architecture, and other project-specific implementation details may not
+be copied, adapted, wrapped, repackaged, or redistributed as an AI
+agent capability, skill, plugin, automation service, or marketplace
+package without prior written permission from the Author.
+
+Public visibility of this repository does not constitute permission for
+third-party AI systems, agents, marketplaces, or platforms to
+commercially reuse or redistribute the implementation.
+
+5. NON-COMMERCIAL EVALUATION
+
+Individuals may inspect and run the Software for personal,
+educational, research, testing, and evaluation purposes, subject to
+the restrictions in this license.
+
+6. COMMERCIAL USE
+
+Commercial use requires a separate written license from the Author.
+
+This includes, without limitation:
+
+- Commercial deployment
+- Integration into a paid product
+- Use by a commercial support operation
+- Hosted or SaaS deployment
+- Resale or sublicensing
+- Commercial redistribution
+
+Commercial licensing may be granted at the Author's discretion.
+
+7. THIRD-PARTY COMPONENTS
+
+This license applies only to materials owned by the Author.
+
+Third-party libraries, frameworks, AI models, software, and other
+dependencies remain subject to their respective licenses.
+
+No rights to third-party intellectual property are granted under this
+license.
+
+8. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR
+NON-INFRINGEMENT.
+
+IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
+
+9. RESERVATION OF RIGHTS
+
+All rights not expressly granted by this license are reserved by the
+Author.
+
+The Author may modify the licensing terms for future versions of the
+Software.
+
+10. CONTACT
+
+Requests for commercial use, redistribution, integration, licensing,
+or other permissions should be directed to the Author.
+
+Author:
+Varad Patil
+
+Copyright © 2026 Varad Patil. All Rights Reserved.
