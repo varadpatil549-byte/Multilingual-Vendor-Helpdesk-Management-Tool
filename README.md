@@ -8,6 +8,14 @@ The application reads vendor emails from Outlook, organizes and prioritizes inco
 
 ---
 
+## 🖥️ Application Overview
+
+The tool provides a centralized workspace for managing multilingual vendor email queries, reviewing translated content, and preparing AI-assisted responses.
+
+![Multilingual Vendor Helpdesk](product%20samples/6a65ea0c-041d-4bdc-8f12-357809354324.png)
+
+---
+
 ## Overview
 
 The application is designed around the workflow:
@@ -21,6 +29,7 @@ It is intended for operational teams handling vendor communications across multi
 ## Key Features
 
 ### 📬 Outlook Queue & Priority Triage
+
 Reads emails from the configured Outlook mailbox and presents them in an organized queue.
 
 The queue can surface information such as:
@@ -34,20 +43,32 @@ The queue can surface information such as:
 
 Urgent or important queries can be highlighted for faster handling.
 
+---
+
 ### 🌍 Multilingual Translation
+
 Supports multilingual vendor communication by translating incoming queries into English for review and understanding.
 
 The workflow can also support preparing a response in the vendor's original language.
 
+---
+
 ### 🤖 AI Response Assistance
+
 Provides context-aware response suggestions based on the vendor query and translated context.
 
 The generated response is intended as an **assistant-generated draft** and should be reviewed by the user before sending.
 
+---
+
 ### 📧 Outlook Integration
+
 Uses the Outlook desktop environment to access mailbox content and support the operational email workflow.
 
+---
+
 ### 📝 Query Review
+
 Provides a structured view of:
 
 - Original subject
@@ -58,7 +79,10 @@ Provides a structured view of:
 
 This keeps the original context visible during review.
 
+---
+
 ### ✅ Manual Review & Send
+
 The tool is designed to keep the final response under human control.
 
 AI-generated or translated content should be reviewed for:
@@ -71,7 +95,10 @@ AI-generated or translated content should be reviewed for:
 - Sensitive information
 - Tone and business appropriateness
 
+---
+
 ### 📊 Operational Tracking
+
 Processing information can be maintained through the project's supporting logs and sample outputs for operational visibility and testing.
 
 ---
@@ -237,4 +264,4 @@ This project is distributed under the **Multilingual Vendor Helpdesk Restricted 
 
 The source is available for viewing, study, research, testing, and evaluation. Commercial use, redistribution, repackaging, and derivative distribution require prior written permission.
 
-See `Licence.txt` for the complete terms.
+See [`Licence.txt`](Licence.txt) for the complete terms.
